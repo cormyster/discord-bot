@@ -1,0 +1,43 @@
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.exe
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord_Bot.Properties.Resources.resources
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csproj.GenerateResource.cache
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csproj.CopyComplete
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.deps.json
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.runtimeconfig.json
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.pdb
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.dll
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.pdb
+C:\Users\Corey\Desktop\Nerd Shit\Discord bot project\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.exe
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.deps.json
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.runtimeconfig.json
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.runtimeconfig.dev.json
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Discord Bot.pdb
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord_Bot.Properties.Resources.resources
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csproj.GenerateResource.cache
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.AssemblyInfo.cs
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csproj.CopyComplete
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.dll
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.pdb
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.genruntimeconfig.cache
+C:\Users\Corey\OneDrive\Nerd shit\Discord Bot\Discord Bot\obj\Debug\netcoreapp3.1\Discord Bot.csproj.CoreCompileInputs.cache

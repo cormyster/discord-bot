@@ -1,0 +1,12 @@
+reading json
+First time using json files and i want the custom commands stored on a json file. How do i reference them?
+solution: i discovered something ive wanted to know how to do for a while but finally managed to put into words in order to research. How to reference an object using a string variable
+string reaction = GetJson()[question]; 
+if question = "name", this is the same as writing GetJson.name
+
+how do i add to json :(
+initialy i just editted the json as a string, however, this is messy and innefficient. A solution i came up with is to parse the string json into a "Json object" from the newtonsoft library. This is similar to deserializing the string
+as it converts each object into a c# object. However, unlike deserializing, you can add custom properties.
+
+Reading user roles to see if youre an admin
+I discovered theres an official discord server for Dsharp+ so i could ask them for some help, i found each permission has a binary code and i could use that to if the user has administrator permissions.
